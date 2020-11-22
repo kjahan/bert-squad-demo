@@ -101,7 +101,7 @@ print("question #3: {} --> answer: {}".format(question_3, get_answer(question_3,
 question_4="How much is Trump wealth?"
 print("question #4: {} --> answer: {}".format(question_4, get_answer(question_4, trump_context)))
 
-question_5="What is Trump nationality??"
+question_5="What is Trump nationality?"
 print("question #5: {} --> answer: {}".format(question_5, get_answer(question_5, trump_context)))
 
 question_6="How many times Trump businesses have declared bankruptcies?"
