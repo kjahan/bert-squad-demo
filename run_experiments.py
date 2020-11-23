@@ -4,7 +4,7 @@ import experiments.trump as trump
 import experiments.syntactic_structures as ss
 
 
-# eliza.run_experiment()
-# chomsky.run_experiment()
-# trump.run_experiment()
+eliza.run_experiment()
+chomsky.run_experiment()
+trump.run_experiment()
 ss.run_experiment()
