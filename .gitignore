@@ -2,4 +2,4 @@ __pycache__/
 
 model/bert_config.json
 model/pytorch_model.bin
-
+.DS_Store

@@ -10,7 +10,7 @@ Let's create a conda environment called `lang`, then we can follow the rest of i
 # Create conda env:
 
 ```
-$ conda create -n lang python=3.6.1
+$ conda create -n lang python=3.6
 ```
 
 # To activate this environment, use
@@ -46,6 +46,10 @@ To see our experiments visit the demo page.  To run the test we have a simple py
 
 ## Demos
 We have tested the BERT modle with a few contexts to to demosntrate stengths and weakness of BERT in the closed form question answering.
+
+```
+python run_experiments.py
+```
 
 # Experiment I: [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 We took the first paragraph and posed a few questions. See [experiment script](run_experiments.py).
